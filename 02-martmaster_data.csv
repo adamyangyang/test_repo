@@ -1,6 +1,0 @@
-cleaned_posts,pred_sentiment,pred_sentiment_score,state,city,tests,devices,avg_d_mbps,avg_u_mbps,avg_lat_ms,clusters,cluster_category,date_col
-Unifi internet down at Sepang Pls helppp,negative,0.8662846088409424,Selangor,Sepang,15227,7831,22.477149384885763,10.156448154657294,32.618629173989454,2.0,service interruptions,7/3/2024
-Maxis internet at Klang still down,negative,0.9302762746810912,Selangor,Klang,34423,14152,21.14195338512764,9.981673696,27.705882352941178,2.0,service interruptions,12/3/2024
-Is there any reason why TIME intern et in Mersing is slightly slower today,negative,0.8746300935745239,Johor,Mersing,1695,797,20.83770050761421,10.552010152284264,35.71573604060914,2.0,service interruptions,12/3/2024
-Just checking if TM Unifi users in Klang are seeing a slight drop in internet speeds lately,neutral,0.7811492085456848,Selangor,Klang,34423,14152,21.14195338512764,9.981673696,27.705882352941178,1.0,slow speed,11/3/2024
-TM Unifi seems to be fluctuating a bit in Mersing Any maintenance going on,negative,0.6553330421447754,Johor,Mersing,1695,797,20.83770050761421,10.552010152284264,35.71573604060914,1.0,slow speed,9/3/2024
