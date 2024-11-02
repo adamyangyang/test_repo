@@ -1,4 +1,4 @@
-﻿row_id,Complaint,Provider,Topic,State,City,Sentiment,sentiment_score,avg_lat_ms,avg_d_mbps,avg_u_mbps,tests,devices
+﻿row_id,Complaint,Provider,Topic,State,City,Sentiment,sentiment_score,lat_ms,d_mbps,u_mbps,tests,devices
 1,Astro in Alor Gajah is fairly priced for what they offer. Happy with it so far!,Astro,Price,Melaka,Alor Gajah,Positive,0.98,36.23,22.59,7.56,390,116
 2,The internet speed with TIME in Alor Gajah has been great. Works well for me.,TIME,Speed,Melaka,Alor Gajah,Positive,0.99,43.51,21.4,7.01,349,116
 3,TIME in Alor Gajah offers fast and reliable speeds. Pleased with the performance.,TIME,Speed,Melaka,Alor Gajah,Positive,0.98,34,18.51,9.96,351,121
