@@ -1,7 +1,7 @@
 user_post,state,city,provider,pred_sentiment,clusters,cluster_category,d_mbps,u_mbps,lat_ms,tests,devices,created_dt,source,cleaned_cluster_category
 "Line is very bad, hardly any line here",Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,13.96,33.66,1.67,1,1,2024-11-02,user_complaints,Connection
 I am unsatisfied with the customer service at maxis,Labuan,Labuan,Maxis,NEGATIVE,,Connection,2.63,23.216,18.28,1,1,2024-11-02,user_complaints,Connection
-"I have connection issue , please help me now now",Putrajaya,Putrajaya,Time,POSITIVE,,Connection,47.5,23.236,109.06,1,1,2024-11-02,user_complaints,Connection
+"I have connection issue , please help me now now",Putrajaya,Putrajaya,TIME,POSITIVE,,Connection,47.5,23.236,109.06,1,1,2024-11-02,user_complaints,Connection
 "Hi, I want to complaint. The connection is bad and line was not good",Negeri Sembilan,Jelebu,Unifi,NEGATIVE,,Connection,63.94,12.719,121.49,1,1,2024-11-02,user_complaints,Connection
 Astro in Alor Gajah is fairly priced for what they offer. Happy with it so far!,Melaka,Alor Gajah,Astro,POSITIVE,,Price,22.59,7.56,36.23,1,1,2024-09-14,base_data,Price
 The internet speed with TIME in Alor Gajah has been great. Works well for me.,Melaka,Alor Gajah,TIME,POSITIVE,,Speed,21.4,7.01,43.51,1,1,2024-10-16,base_data,Speed
