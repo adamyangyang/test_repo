@@ -10,16 +10,516 @@ Bad connection,Sabah,Kota Kinabalu,Astro,NEGATIVE,,Coverage,91.78,10.005,101.68,
 speed slow,Negeri Sembilan,Port Dickson,Astro,NEUTRAL,,Speed,65.64,12.602,88.91,1,1,2024-11-03,user_complaints,Speed
 My wifi is not working,Pahang,Maran,Unifi,NEGATIVE,,Coverage,61.07,17.04,127.39,1,1,2024-11-03,user_complaints,Coverage
 Bad connection,Perlis,Perlis,Unifi,NEGATIVE,,Coverage,119.32,18.38,131.7,1,1,2024-11-03,user_complaints,Coverage
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
 I dont like you,Sabah,Papar,Maxis,NEGATIVE,,No category,44.19,15.363,82.15,1,1,2024-11-03,user_complaints,No category
 I have no line her in Putrajaya,Putrajaya,Putrajaya,Maxis,NEUTRAL,,No category,41.07,8.281,113.81,1,1,2024-11-03,user_complaints,No category
 I have no connection and the speed is very slow here,Kuala Lumpur,Kuala Lumpur,Astro,NEGATIVE,,Speed & Coverage,41.43,17.864,97.07,1,1,2024-11-03,user_complaints,Multiple category
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
 Bad connection,Putrajaya,Putrajaya,Maxis,NEGATIVE,,Coverage,137.68,9.391,143.39,1,1,2024-11-03,user_complaints,Coverage
 connection bad worst,Kedah,Pendang,Maxis,NEGATIVE,,Coverage,170.2,12.974,137.54,1,1,2024-11-03,user_complaints,Coverage
 "Bad speed, no line",Sabah,Kinabatangan,Maxis,NEGATIVE,,Speed,132.83,10.192,145.45,1,1,2024-11-03,user_complaints,Speed
 Very bad connection,Sarawak,Meradong,Maxis,NEGATIVE,,Coverage,44.33,11.104,104.76,1,1,2024-11-03,user_complaints,Coverage
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
 Bad connection,Sarawak,Lubok Antu,Maxis,NEGATIVE,,Coverage,150.86,12.673,154.78,1,1,2024-11-03,user_complaints,Coverage
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
 Speed bad,Sarawak,Pakan,Maxis,NEGATIVE,,Speed,139.17,11.477,154.84,1,1,2024-11-03,user_complaints,Speed
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
 Worst connection,Sabah,Ranau,Maxis,NEGATIVE,,Coverage,153.57,14.609,162.04,1,1,2024-11-03,user_complaints,Coverage
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Selangor,Klang,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Negeri Sembilan,Seremban,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
+service disruption!!,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Connection,0.37807903084918837,0.8019460294321137,0.5004407797869361,1,1,2024-11-03,user_complaints,Connection
 Bad connection,Selangor,Petaling,Maxis,NEGATIVE,,Coverage,63.44,19.895,90.45,1,1,2024-11-03,user_complaints,Coverage
 Customer service bad worst,Pahang,Maran,Maxis,NEGATIVE,,Customer Service,111.78,18.674,113.53,1,1,2024-11-03,user_complaints,Customer Service
 Astro in Alor Gajah is fairly priced for what they offer. Happy with it so far!,Melaka,Alor Gajah,Astro,POSITIVE,,Price,22.59,7.56,36.23,1,1,2024-09-14,base_data,Price
