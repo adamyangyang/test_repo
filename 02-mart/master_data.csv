@@ -1,26 +1,38 @@
 user_post,state,city,provider,pred_sentiment,clusters,cluster_category,d_mbps,u_mbps,lat_ms,tests,devices,created_dt,source,cleaned_cluster_category
-"Line is very bad, hardly any line here",Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,13.96,33.66,1.67,1,1,2024-11-02,user_complaints,Connection
 I am unsatisfied with the customer service at maxis,Labuan,Labuan,Maxis,NEGATIVE,,Connection,2.63,23.216,18.28,1,1,2024-11-02,user_complaints,Connection
-Badbad badbabdadbad i dont like,Sarawak,Lundu,Maxis,NEGATIVE,,No category,44.17,12.787,47.52,1,1,2024-11-03,user_complaints,No category
-"I have connection issue , please help me now now",Putrajaya,Putrajaya,TIME,POSITIVE,,Connection,47.5,23.236,109.06,1,1,2024-11-02,user_complaints,Connection
-"Hi, I want to complaint. The connection is bad and line was not good",Negeri Sembilan,Jelebu,Unifi,NEGATIVE,,Connection,63.94,12.719,121.49,1,1,2024-11-02,user_complaints,Connection
-Bad connection ,Labuan,Labuan,Maxis,NEGATIVE,,Coverage,0.0,0.0,0.0,1,1,2024-11-03,user_complaints,Coverage
 bad speed,Sarawak,Meradong,Astro,NEGATIVE,,Speed,65.65,15.627,92.86,1,1,2024-11-03,user_complaints,Speed
-Bad connection,Sabah,Kota Kinabalu,Astro,NEGATIVE,,Coverage,91.78,10.005,101.68,1,1,2024-11-03,user_complaints,Coverage
 speed slow,Negeri Sembilan,Port Dickson,Astro,NEUTRAL,,Speed,65.64,12.602,88.91,1,1,2024-11-03,user_complaints,Speed
 My wifi is not working,Pahang,Maran,Unifi,NEGATIVE,,Coverage,61.07,17.04,127.39,1,1,2024-11-03,user_complaints,Coverage
 Bad connection,Perlis,Perlis,Unifi,NEGATIVE,,Coverage,119.32,18.38,131.7,1,1,2024-11-03,user_complaints,Coverage
-I dont like you,Sabah,Papar,Maxis,NEGATIVE,,No category,44.19,15.363,82.15,1,1,2024-11-03,user_complaints,No category
-I have no line her in Putrajaya,Putrajaya,Putrajaya,Maxis,NEUTRAL,,No category,41.07,8.281,113.81,1,1,2024-11-03,user_complaints,No category
-I have no connection and the speed is very slow here,Kuala Lumpur,Kuala Lumpur,Astro,NEGATIVE,,Speed & Coverage,41.43,17.864,97.07,1,1,2024-11-03,user_complaints,Multiple category
-Bad connection,Putrajaya,Putrajaya,Maxis,NEGATIVE,,Coverage,137.68,9.391,143.39,1,1,2024-11-03,user_complaints,Coverage
+"It's terrible, I am unable to connect to my home wifi at all",Pulau Pinang,Seberang Perai Tengah,Astro,NEGATIVE,,No category,8.65,13.09,15.8,1,1,2024-11-03,user_complaints,No category
+The line in putrajaya is very bad here! There is hardly any connection at all!,Putrajaya,Putrajaya,Unifi,NEGATIVE,,Connection,13.96,33.66,1.67,1,1,2024-11-02,user_complaints,Connection
+Maxis connection is so bad in Sarawak!! Why can't they improve their service here?,Sarawak,Lundu,Maxis,NEGATIVE,,Connection,44.17,12.787,47.52,1,1,2024-11-03,user_complaints,Connection
+I'm having conection issues with TIME right now. Please help!!,Putrajaya,Putrajaya,TIME,POSITIVE,,Connection,47.5,23.236,109.06,1,1,2024-11-02,user_complaints,Connection
+Connection for Unifi in Negeri Sembilan is so terrible. What are they doing?,Negeri Sembilan,Jelebu,Unifi,NEGATIVE,,Connection,63.94,12.719,121.49,1,1,2024-11-02,user_complaints,Connection
+Maxis speed in Sabah is BAD. B.A.D!!,Sabah,Papar,Maxis,NEGATIVE,,Speed,44.19,15.363,82.15,1,1,2024-11-03,user_complaints,Speed
+I am not getting any line here in Putrajaya... can Maxis please look into this?,Putrajaya,Putrajaya,Maxis,NEUTRAL,,Coverage,41.07,8.281,113.81,1,1,2024-11-03,user_complaints,Coverage
+no connection & slow speeds here for Astro in KL...,Kuala Lumpur,Kuala Lumpur,Astro,NEGATIVE,,Speed & Coverage,41.43,17.864,122.51,1,1,2024-11-03,user_complaints,Multiple category
+Astro has such bad connection in Sabah... Please fix it Astro.,Sabah,Kota Kinabalu,Astro,NEGATIVE,,Coverage,91.78,10.005,101.68,1,1,2024-11-03,user_complaints,Coverage
+Maxis literally has the worst connection in Labuan. The coverage is terrible wherever you go.,Labuan,Labuan,Maxis,NEGATIVE,,Coverage,101.51,8.87,122.51,1,1,2024-11-03,user_complaints,Coverage
 connection bad worst,Kedah,Pendang,Maxis,NEGATIVE,,Coverage,170.2,12.974,137.54,1,1,2024-11-03,user_complaints,Coverage
 "Bad speed, no line",Sabah,Kinabatangan,Maxis,NEGATIVE,,Speed,132.83,10.192,145.45,1,1,2024-11-03,user_complaints,Speed
 Very bad connection,Sarawak,Meradong,Maxis,NEGATIVE,,Coverage,44.33,11.104,104.76,1,1,2024-11-03,user_complaints,Coverage
+My internet is finally back to normal!! Thanks so much Unifi!!!!.,Kuala Lumpur,Kuala Lumpur,Unifi,POSITIVE,,Connection,120.55,14.65,44.45,1,1,2024-11-02,user_complaints,Connection
+Just talked to my neighbors & we both agree that Astro internet has been very unstable over the last few days...,Negeri Sembilan,Port Dickson,Astro,NEGATIVE,,Connection,17.52,11.21,92.42,1,1,2024-11-02,user_complaints,Connection
+I can't believe that i have to tolerate bad connection everyday at work...,Putrajaya,Putrajaya,Maxis,NEGATIVE,,Coverage,137.68,9.391,143.39,1,1,2024-11-03,user_complaints,Coverage
+Somebody from Unifi reached out not too long after... Good Service. Hopefully my internet can get fixed soon.,Kuala Lumpur,Kuala Lumpur,Unifi,POSITIVE,,Connection,11.55,9.25,75.45,1,1,2024-11-02,user_complaints,Connection
+Unifi is suddenly slow at my house in kl today... can someone from the company please do something about it?,Kuala Lumpur,Kuala Lumpur,Unifi,NEGATIVE,,Speed,12.31,8.51,90.32,1,1,2024-11-02,user_complaints,Speed
+Can someone from Astro do something about the unstable connection in Port Dickson???,Negeri Sembilan,Port Dickson,Astro,NEGATIVE,,Connection,13.92,9.18,90.11,1,1,2024-11-02,user_complaints,Connection
+Hi... can someone from TIME please answer why the internet in Labuan suddenly gets cut off when I had towards the south??,Labuan,Labuan,TIME,NEGATIVE,,Coverage,10.91,9.91,70.32,1,1,2024-11-02,user_complaints,Coverage
+The customer service at Maxis is not bad... keep up the good work!,Putrajaya,Putrajaya,Maxis,POSITIVE,,Customer Service,121.43,10.051,34.52,1,1,2024-11-02,user_complaints,Customer Service
+I got hanged up by TIME customer service 3x in a row TODAY! Is this how you treat your loyal customers?,Melaka,Alor Gajah,TIME,NEGATIVE,,Coverage,45.23,10.22,59.32,1,1,2024-11-02,user_complaints,Coverage
+"Just changed my package to Astro. So far, the internet speed is so much faster than Maxis.",Sarawak,Asajaya,Astro,POSITIVE,,Speed,76.55,13.18,23.11,1,1,2024-11-02,user_complaints,Speed
 Bad connection,Sarawak,Lubok Antu,Maxis,NEGATIVE,,Coverage,150.86,12.673,154.78,1,1,2024-11-03,user_complaints,Coverage
 Speed bad,Sarawak,Pakan,Maxis,NEGATIVE,,Speed,139.17,11.477,154.84,1,1,2024-11-03,user_complaints,Speed
+Maxis oh maxis... why are you so unstable every wednesday night??,Kelantan,Bachok,Maxis,NEGATIVE,,Connection,55.55,8.71,22.52,1,1,2024-11-02,user_complaints,Connection
 Worst connection,Sabah,Ranau,Maxis,NEGATIVE,,Coverage,153.57,14.609,162.04,1,1,2024-11-03,user_complaints,Coverage
-Bad connection,Selangor,Petaling,Maxis,NEGATIVE,,Coverage,63.44,19.895,90.45,1,1,2024-11-03,user_complaints,Coverage
+"My line was so bad, I am unable to make a call, and connect to the internet",Sarawak,Julau,Maxis,NEGATIVE,,No category,82.33,39.356,41.65,1,1,2024-11-03,user_complaints,No category
+Maxis has such bad connection in PJ...,Selangor,Petaling,Maxis,NEGATIVE,,Coverage,63.44,19.895,90.45,1,1,2024-11-03,user_complaints,Coverage
 Customer service bad worst,Pahang,Maran,Maxis,NEGATIVE,,Customer Service,111.78,18.674,113.53,1,1,2024-11-03,user_complaints,Customer Service
 Astro in Alor Gajah is fairly priced for what they offer. Happy with it so far!,Melaka,Alor Gajah,Astro,POSITIVE,,Price,22.59,7.56,36.23,1,1,2024-09-14,base_data,Price
 The internet speed with TIME in Alor Gajah has been great. Works well for me.,Melaka,Alor Gajah,TIME,POSITIVE,,Speed,21.4,7.01,43.51,1,1,2024-10-16,base_data,Speed
